@@ -1,4 +1,7 @@
-https://github.com/basskillin/M5StickCPlusCID/blob/main/Img/74cd329ee907a31168ad4a917e4a7330-2851971051.jpg
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/basskillin/M5StickCPlusCID/blob/main/Img/74cd329ee907a31168ad4a917e4a7330-2851971051.jpg">
+</picture>
+
 # M5StickCPlusCID
 M5StickCPlus CallerID using FreePBX CallerID Superfecta Send to URL.
 
